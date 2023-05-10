@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "@woocommerce/woocommerce-rest-api": "^1.0.1",
+    "aws-amplify": "^5.0.14"
+  },
+  "devDependencies": {
+    "@types/react-test-renderer": "^18.0.0"
+  }
+}
